@@ -1,0 +1,5 @@
+# Please read https://github.com/ccxt/ccxt/blob/master/CONTRIBUTING.md#multilanguage-support for details.
+#
+ccxt/
+node_modules/
+package-lock.json
